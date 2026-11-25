@@ -1,5 +1,5 @@
 не мій проект
-https://yura-h.github.io/happy/
+https://yura-h.github.io/happy_n/
 
 ```
 npm run server-node
